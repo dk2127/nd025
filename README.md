@@ -8,12 +8,12 @@
 ### Licensing, Authors, and Acknowledgements
 
 ### Installation
-This project was created and run using Python version 3.9.12
+  #### This project was created and run using Python version 3.9.12
 
 ### Libraries: pandas, numpy, seaborn, matplotlib, datetime
 
 ### Project Motivation
-The renting of AirBnB has become very common since it provides very competitive alternative to the hotels at most tourist places. With so many options available on the AirBnB platform, as a tourist I am motivated to find to find answers to the following questions, with the Seattle AirBnB data:
+#### The renting of AirBnB has become very common since it provides very competitive alternative to the hotels at most tourist places. With so many options   #### available on the AirBnB platform, as a tourist I am motivated to find to find answers to the following questions, with the Seattle AirBnB data:
 
   1) What are the most popular neighbourhoods in Seattle of AirBnB listings?
   2) What are the important factors that determine price per night?
@@ -28,7 +28,7 @@ The renting of AirBnB has become very common since it provides very competitive 
 ### calendar.csv : AirBnB availability calender dataset for Jan'16-Jan'17 for Seattle from Kaggle.
 
 ## Conclusion
-The data exploration, anlyasis and conclusion is in Medium as a blogs here(link).
+### The data exploration, anlyasis and conclusion is in Medium as a blogs here(link).
 
 ## Licensing, Authors, Acknowledgements
 ### Data Source :- Kaggle 
