@@ -28,6 +28,10 @@
 ### calendar.csv : AirBnB availability calender dataset for Jan'16-Jan'17 for Seattle from Kaggle.
 
 ## Conclusion
+- The most popular neighbourhoods in Seattle of AirBnB listings are Capitol Hill, Downtown, Central Area, Queen Anne, Ballard, West Seattle, Rainier Valley, University District, Beacon Hill.
+-  Important factors that determine price per night: 'weekly_price', 'monthly_price', 'security_deposit', 'cleaning_fee', 'host_response_time_within an hour', 'room_type_Entire home/apt', 'accommodates_5', 'accommodates_7', 'accommodates_8', 'accommodates_15', 'bathrooms_1.0', 'bathrooms_3.0', 'bedrooms_1.0', 'bedrooms_3.0', 'bedrooms_5.0', 'bedrooms_6.0', 'beds_1.0', 'beds_4.0', 'beds_5.0', etc.
+-  Busiest month for Seattle AirBnbs was 2016-07, which is when the average prices peak.
+
 ### The data exploration, anlyasis and conclusion is in Medium as a blogs here(link).
 
 ## Licensing, Authors, Acknowledgements
