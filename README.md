@@ -24,8 +24,8 @@
 ## File Descriptions
 
 - FinalProject1.ipynb :- Jupyter notebook containing steps to read input files, preprocess datasets, build models, and create relevant visualizations.
-- listings.csv : AirBnB listings dataset for Jan'16-Jan'17 for Seattle from Kaggle (link below)
-- calendar.csv : AirBnB availability calender dataset for Jan'16-Jan'17 for Seattle from Kaggle.
+- listings.csv : AirBnB listings dataset for Jan'16-Jan'17 for Seattle from Kaggle (link below, or in the archive.zip file in the folder).
+- calendar.csv : AirBnB availability calender dataset for Jan'16-Jan'17 for Seattle from Kaggle (link below, or in the archive.zip file in the folder).
 
 ## Conclusion
 - The most popular neighbourhoods in Seattle of AirBnB listings are Capitol Hill, Downtown, Central Area, Queen Anne, Ballard, West Seattle, Rainier Valley, University District, Beacon Hill.
