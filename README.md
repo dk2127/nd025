@@ -24,7 +24,7 @@
 ## File Descriptions
 
 - FinalProject1.ipynb :- Jupyter notebook containing steps to read input files, preprocess datasets, build models, and create relevant visualizations.
-- listings.csv : AirBnB listings dataset for Jan'16-Jan'17 for Seattle from Kaggle.
+- listings.csv : AirBnB listings dataset for Jan'16-Jan'17 for Seattle from Kaggle (link below)
 - calendar.csv : AirBnB availability calender dataset for Jan'16-Jan'17 for Seattle from Kaggle.
 
 ## Conclusion
@@ -35,4 +35,4 @@
 ## The data exploration, anlyasis and conclusion is in Medium as a blogs here(link).
 
 ## Licensing, Authors, Acknowledgements
-- Data Source :- Kaggle 
+- Data Source :- https://www.kaggle.com/datasets/airbnb/seattle/download?datasetVersionNumber=2
