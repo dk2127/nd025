@@ -1,11 +1,11 @@
 # Udacity-Data-Science-Project: Writing a Data Scientist Blog Post
 
 ## Table of contents
-### Installation
-### Project Motivation
-### File Descriptions
-### Conclusion
-### Licensing, Authors, and Acknowledgements
+  ### Installation
+  ### Project Motivation
+  ### File Descriptions
+  ### Conclusion
+  ### Licensing, Authors, and Acknowledgements
 
 ### Installation
   #### This project was created and run using Python version 3.9.12
